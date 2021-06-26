@@ -1,5 +1,3 @@
--- 11. Write a SQL query to find the players, their jersey number, and playing club who were the goalkeepers for England in EURO Cup 2016.
--- 12. Write a SQL query that returns the total number of goals scored by each position on each country’s team. Do not include positions which scored no goals.
 -- 13. Write a SQL query to find all the defenders who scored a goal for their teams.
 -- 14. Write a SQL query to find referees and the number of bookings they made for the entire tournament. Sort your answer by the number of bookings in descending order.
 -- 15. Write a SQL query to find the referees who booked the most number of players.
