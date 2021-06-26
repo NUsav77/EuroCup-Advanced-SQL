@@ -1,2 +1,2 @@
 # EuroCup Advanced SQL
- Evaluate and Analyze Data from Euro Cup 2016
+ This project focuses on evaluating and analyzing data from the Euro Cup 2016
