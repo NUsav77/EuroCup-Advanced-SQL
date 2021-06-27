@@ -1,6 +1,7 @@
 -- 13. Write a SQL query to find all the defenders who scored a goal for their teams.
 
 SELECT 
+	goal_id,
 	player_name,
     country_name
 FROM goal_details AS g
